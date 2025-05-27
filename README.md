@@ -1,24 +1,39 @@
 ## 🔧 About me
-Hi, I am Sharada. I am from the land of Himalayas, Nepal. A beautiful country in South Asia. My aim has always been to work in the field of sustainability through energy systems. Germany being the leading nation in the net-zero energy usage, it was the easy choice for my masters. The journey has been beautiful so far. I am enjoying having coffee early morning with the sound of birds, playing guitar on a sunny day, and listening to amazing individuals passionate about energy systems and sustainability.
+Hi, I'm Sharada — originally from the Himalayan country of Nepal 🇳🇵, now pursuing my Master's in Smart Energy Systems at Hochschule Ansbach, Germany 🇩🇪.
 
-I am a Masters Student at Hochschule Ansbach. Specializing in Optimization of Energy Systems. I am particulary interested in developing mathematical models for multi-vector energy systems. I always wanted to work in the field of mathematics and sustainability. This is me trying to connect these two aspects of my life. I am using Excel, Python, and OCTAVE for my optimization projects.
-   
+My passion lies at the intersection of mathematics and sustainability. I specialize in the **optimization of multi-vector energy systems**, and I’m particularly interested in developing mathematical models to support net-zero transitions. I currently use tools like **Python, Excel, and Octave** for simulation and optimization projects.
+
+Beyond studies, I love peaceful early mornings with coffee and birdsong, strumming my guitar on sunny days, and exchanging ideas with passionate individuals in the field of sustainability.
+  
 ## 📚 **Learning Journey**
-- I am currently learning performance analysis of Smart Grid. I am also improving on my German Skills. My entrepreneurship pursuit is Smart Battery System for a apartment home.
-- You can find my notes in repositories. Each subject has its own repository. It is a work in progress. 
+I'm currently working on **performance analysis of smart grids** and building my fluency in **German (aiming for B1)**. 
+
+My entrepreneurial curiosity led me to explore a concept for a **Smart Battery System for apartment homes** - It is in early research phase.
+
+You’ll find my study notes and coursework in **individual subject repositories** on this GitHub — it's a growing collection and a work in progress.
+
 
 ## ✨ Personal Side & Personality
-- I love visiting places from books and movies. I also do _Destiny Weekends_ where I randomly go to Bahnhof and take the random train and visit random villages and cities nearby. Sometimes the journey lasts hours.
-- The milestone day of my career would be to witness achievement of a net-zero planet earth. The cherry on the top would be my direct contribution into the achievement
+I love visiting places I’ve read about in books or seen in films. I also go on what I call *Destiny Weekends* — spontaneous train journeys to random villages or cities across Germany. These adventures keep me inspired.
+
+My dream milestone is to witness a net-zero planet — and contribute directly to making that happen through the work I do.
 
 ## 🛠️ **Community, Collaboration & Goals**
-- I am open to collaborations in Scientific Writings and projects. It is always fun to work with people from different backgrounds. I hope to connect with enthusiatic people in my life. Ones who have zeal to work towards a bigger goal. 
+I'm open to collaboration on **scientific writing**, student projects, and energy simulations. I love working with people from different disciplines and backgrounds — it sparks the best ideas.
 
-## Goals this year
-- Article writing on Medium
+I'm especially looking to connect with others who are passionate about **sustainability, optimization, and energy system innovation**.
+
+## 🎯 2025 Goals
+- ✅ Write and publish 2 articles on Medium about my energy journey
+- 🛠️ Complete and publish a Smart Grid Simulation project on GitHub
+- 🔗 Connect with 20+ energy professionals on LinkedIn
+- 🇩🇪 Reach B1 level in German for professional communication
+- ✨ Launch my Smart Battery System concept as an early-stage idea
+- 🎒 Backpacking through Germany
+
   
 ## 📫 **Let’s Connect**
 [LinkedIn](https://www.linkedin.com/in/sharada-poudel-47109b343/)
 [Medium](https://medium.com/@sharadapoudel2024)
-[Email](sharadapoudel2024@gmail.com)
+[Email](mailto:sharadapoudel2024@gmail.com)
 
