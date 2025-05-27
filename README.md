@@ -8,7 +8,7 @@ I am a Masters Student at Hochschule Ansbach. Specializing in Optimization of En
 - You can find my notes in repositories. Each subject has its own repository. It is a work in progress. 
 
 ## ✨ Personal Side & Personality
-- I love visiting places from books and movies. I also do destiny weekends where I randomly go to Bahnhof and take the random train and visit random villages and cities nearby. Sometimes the journey lasts hours.
+- I love visiting places from books and movies. I also do _Destiny Weekends_ where I randomly go to Bahnhof and take the random train and visit random villages and cities nearby. Sometimes the journey lasts hours.
 - The milestone day of my career would be to witness achievement of a net-zero planet earth. The cherry on the top would be my direct contribution into the achievement
 
 ## 🛠️ **Community, Collaboration & Goals**
