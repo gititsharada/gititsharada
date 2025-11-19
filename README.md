@@ -24,10 +24,10 @@ I'm open to collaboration on **scientific writing**, student projects, and energ
 I'm especially looking to connect with others who are passionate about **sustainability, optimization, and energy system innovation**.
 
 ## 🎯 2025 Goals
-- ✅ Write and publish 2 articles on Medium about my energy journey
+- ✅ Write and publish 2 articles on Medium about my energy journey (Done)
 - 🛠️ Complete and publish a Smart Grid Simulation project on GitHub
-- 🔗 Connect with 20+ energy professionals on LinkedIn
-- 🇩🇪 Reach B1 level in German for professional communication
+- 🔗 Connect with 20+ energy professionals on LinkedIn 
+- 🇩🇪 Reach B1 level in German for professional communication (Done)
 - ✨ Launch my Smart Battery System concept as an early-stage idea
 - 🎒 Backpacking through Germany
 
