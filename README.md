@@ -1,7 +1,7 @@
 ## About me
 Hi, I'm Sharada — originally from the Himalayan country of Nepal 🇳🇵, now pursuing my Master's in Smart Energy Systems at Hochschule Ansbach, Germany 🇩🇪.
 
-My passion lies at the intersection of mathematics and sustainability. I specialize in the **optimization of multi-vector energy systems**, and I’m particularly interested in developing mathematical models to support net-zero transitions. I currently use tools like **Python, Excel, and Octave** for simulation and optimization projects.
+My passion lies at the intersection of mathematics and sustainability. I specialize in the **optimization of multi-vector energy systems**, and I’m particularly interested in developing mathematical models to support net-zero transitions. I currently use tools like **Python, Excel* for simulation and optimization projects.
 
 Beyond studies, I love peaceful early mornings with coffee and birdsong, strumming my guitar on sunny days, and exchanging ideas with passionate individuals in the field of sustainability.
   
